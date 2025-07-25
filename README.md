@@ -24,6 +24,5 @@ Mendukung fitur login admin, input terminal, serta skema check-in & check-out me
 
 ---
 
-## 📁 Struktur Folder
 
 
