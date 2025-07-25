@@ -26,7 +26,7 @@ Mendukung fitur login admin, input terminal, serta skema check-in & check-out me
 
 ## 📁 Struktur Folder
 
-e-ticketing-api/
+-e-ticketing-api/
 ├── main.go
 ├── .env
 ├── go.mod
